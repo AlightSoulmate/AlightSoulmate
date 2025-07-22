@@ -1,10 +1,11 @@
-<h2 align="center">Hey👋</h2>
+<h2 align="center">Hey 👋</h2>
 
 <p align="center">I'm an undergraduate CS student and newbie developer, interested in collaborating on open source projects on GitHub.</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlightSoulmate&show_icons=true" alt="GitHub Stats" />
 </p>
+
 <!--
 **AlightSoulmate/AlightSoulmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
