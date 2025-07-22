@@ -1,6 +1,6 @@
 <h2 align="center">Hey there👋</h2>
 
-<p align="center">I'm a CS undergraduate and newbie developer, interested in collaborating on open source projects on GitHub.</p>
+<p align="center">I'm a CS undergraduate and junior-level developer, interested in collaborating on open source projects on GitHub.</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlightSoulmate&show_icons=true" alt="GitHub Stats" />
