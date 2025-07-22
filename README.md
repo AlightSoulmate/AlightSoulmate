@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm an undergraduate student and newbie developer, interested in collaborating on open source projects on GitHub.
+
 
 <!--
 **AlightSoulmate/AlightSoulmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
