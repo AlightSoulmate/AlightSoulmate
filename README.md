@@ -1,6 +1,8 @@
+<!--
 <h2 align="center">Hey there👋</h2>
+-->
 
-<p align="center">I'm a CS undergraduate and junior-level developer, interested in collaborating on open source projects on GitHub. My other current interests include web architecture, algorithmic problem solving, and developer tooling.</p>
+<p align="center">Hey there👋 I'm a CS undergraduate and junior-level developer, interested in collaborating on open source projects. My other current interests include web architecture, algorithmic, and developer tooling.</p>
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlightSoulmate&show_icons=true" alt="GitHub Stats" />
